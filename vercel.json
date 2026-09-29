@@ -1,0 +1,6 @@
+{
+  "buildCommand": "python3 tools/build_site.py",
+  "outputDirectory": "docs",
+  "framework": null,
+  "installCommand": "echo 'No dependencies needed'"
+}
